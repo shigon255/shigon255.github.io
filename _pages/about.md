@@ -7,7 +7,8 @@ subtitle: Incoming Ph.D student @ NYCU CS
 profile:
   align: right
   image: prof_pic_color.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
+  image_max_width: 220px # reduce displayed profile image size
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
