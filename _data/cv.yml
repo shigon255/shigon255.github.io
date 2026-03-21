@@ -26,37 +26,37 @@ cv:
         url: https://www.nycu.edu.tw/
         area: Computer Science
         studyType: PhD
-        start_date: 2026-9
-        end_date: Present
+        start_date: 2026-09
+        end_date: null
 
       - institution: University of Illinois at Urbana-Champaign
         location: Illinois, US
         area: Computer Science
         studyType: Master of Computer Science
-        start_date: 2024-9
-        end_date: 2026-1
+        start_date: 2024-09
+        end_date: 2026-01
 
       - institution: National Yang Ming Chiao Tung University
         location: Hsinchu, Taiwan
         url: https://www.nycu.edu.tw/
         area: Computer Science
         studyType: Bachelor of Computer Science
-        start_date: 2021-9
-        end_date: 2025-1
+        start_date: 2021-09
+        end_date: 2025-01
 
     Experience:
       - company: Academia Sinica
         position: Research Assistant
         location: Taipei, Taiwan
-        start_date: 2025-6
-        end_date: 2025-9
+        start_date: 2025-06
+        end_date: 2025-09
         summary: Led a research project development on synthesizing camera effects from real-world videos.
 
       - company: CompPhotoLab, National Yang Ming Chiao Tung University
         position: Research Assistant
         location: Hsinchu, Taiwan
-        start_date: 2023-5
-        end_date: 2024-6
+        start_date: 2023-05
+        end_date: 2024-06
         summary: Researched and implemented algorithms for 3D shape reconstruction from single-view images under dynamic lighting.
 
     Publications:
