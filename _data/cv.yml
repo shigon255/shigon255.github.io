@@ -60,7 +60,7 @@ cv:
         summary: Researched and implemented algorithms for 3D shape reconstruction from single-view images under dynamic lighting.
 
     Publications:
-      - title: "Skyfall-GS: Synthesizing Immersive 3D Urban ScenesfromSatellite Imagery"
+      - title: "Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery"
         authors:
           - Jie-Ying Lee
           - Yi-Ruei Liu
@@ -76,27 +76,27 @@ cv:
         url: https://skyfall-gs.jayinnn.dev/
         summary: The first method to synthesize immersive, real-time navigable 3D urban scenes solely from multi-view satellite imagery.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: On the Generation and Transformation of Light - A Heuristic Viewpoint
         authors:
           - Albert Einstein
         publisher: Annalen der Physik
         releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+        url: https://en.wikipedia.org/wiki/Photoelectric_effect#Einstein%27s_explanation
+        summary: Applied quantum theory to light to explain the photoelectric effect using the concept of light quanta (photons).
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: The Foundation of General Relativity
         authors:
           - Albert Einstein
         publisher: Annalen der Physik
         releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+        url: https://en.wikipedia.org/wiki/General_relativity
+        summary: Published the foundational theory of general relativity, making him internationally famous.
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Computer Vision
+        level: Advanced
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "3D Reconstruction, 3D Gaussian Splatting, Physics-based Rendering, Inverse Rendering"
 
     Languages:
       - name: German
