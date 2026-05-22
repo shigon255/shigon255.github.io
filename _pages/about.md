@@ -31,6 +31,7 @@ latest_posts:
 ## About Me
 
 <!-- I’m an incoming Ph.D. student in Computer Science at National Yang Ming Chiao Tung University (NYCU), advised by Prof. [Yu-Lun Liu](https://yulunalexliu.github.io/).  -->
+
 I recieved my master degree at UIUC-CS. I plan to apply for Ph.D. programs in US.
 I work on **3D scene reconstruction** and **physically-based rendering**, particularly focusing on **inverse rendering**, **3D Gaussian Splatting**, and **physics effect simulation**.
 
