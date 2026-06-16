@@ -54,6 +54,7 @@ Beyond standard BibTeX fields, al-folio supports custom keywords for rich public
 - **preview:** URL to preview image (`preview: /assets/img/papers/paper-preview.jpg`)
 - **selected:** Boolean to feature on publications page (`selected: true`)
 - **slides:** URL to presentation slides (`slides: /assets/slides/2023.pdf`)
+- **video_preview:** URL or local filename for an inline publication preview video (`video_preview: paper-preview.mp4`)
 
 ### Example Entry with Custom Keywords
 
@@ -70,6 +71,7 @@ Beyond standard BibTeX fields, al-folio supports custom keywords for rich public
   pdf={smith2023.pdf},
   code={https://github.com/example/repo},
   preview={smith2023.jpg},
+  video_preview={smith2023.mp4},
   doi={10.1234/nature.12345},
   selected={true}
 }
@@ -119,6 +121,9 @@ When using `pdf`, `poster`, `preview`, or similar fields:
   - Example: `pdf={smith2023.pdf}` → resolves to `assets/pdf/smith2023.pdf`
 - **Preview images:** Use just the filename (automatically resolved to `assets/img/publication_preview/`)
   - Example: `preview={smith2023.jpg}` → resolves to `assets/img/publication_preview/smith2023.jpg`
+- **Preview videos:** Use just the filename (automatically resolved to `assets/video/`)
+  - Example: `video_preview={smith2023.mp4}` → resolves to `assets/video/smith2023.mp4`
+  - Keep `preview` set as the poster/fallback image.
 - **Absolute URLs:** Include full URL for external resources
   - Example: `code={https://github.com/user/repo}`
   - Example: `html={https://example.com/paper}`

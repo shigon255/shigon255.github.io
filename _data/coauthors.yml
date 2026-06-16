@@ -1,34 +1,71 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"liu":
+  - firstname: ["Yi-Ruei"]
+    url: https://shigon255.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+  - firstname: ["Yu-Lun"]
+    url: https://yulunalexliu.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"lee":
+  - firstname: ["Jie-Ying"]
+    url: https://jayinnn.dev/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"huang":
+  - firstname: ["Zheng-Hui"]
+    url: https://brian90709.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+  - firstname: ["Jiun-Long"]
+    url: https://people.cs.nycu.edu.tw/~jlhuang/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"lin":
+  - firstname: ["Chih-Hao"]
+    url: https://chih-hao-lin.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+  - firstname: ["Chieh Hubert"]
+    url: https://hubert0527.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"tsai":
+  - firstname: ["Shr-Ruei"]
+    url: https://www.linkedin.com/in/shr-ruei-tsai
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"chang":
+  - firstname: ["Wei-Cheng"]
+    url: https://openreview.net/profile?id=~Wei-Cheng_Chang3
+
+  - firstname: ["Chen-Wei"]
+    url: https://chenwei891213.github.io/
+
+"wu":
+  - firstname: ["Chung-Ho"]
+    url: https://kkennethwu.github.io/
+
+"chan":
+  - firstname: ["Jiewen"]
+    url: https://jiewenchan.github.io/
+
+"zhao":
+  - firstname: ["Zhenjun"]
+    url: https://ericzzj1989.github.io/
+
+"xie":
+  - firstname: ["You-Zhe"]
+    url: https://www.youzhexie.me/
+
+"hsu":
+  - firstname: ["Yu-Hsiang"]
+    url: http://shigon255.github.io/4DGRT-project-page/
+
+"fang":
+  - firstname: ["I-Sheng"]
+    url: https://ishengfang.github.io/
+
+"chen":
+  - firstname: ["Jun-Cheng"]
+    url: https://homepage.citi.sinica.edu.tw/pages/pullpull/index_en.html
+
+"fan":
+  - firstname: ["Cheng-De"]
+    url: https://cdfan0627.github.io/
+
+"tseng":
+  - firstname: ["Yu-Chee"]
+    url: https://sites.google.com/view/yctseng
