@@ -30,11 +30,10 @@ latest_posts:
 
 ## About Me
 
-<!-- I’m an incoming Ph.D. student in Computer Science at National Yang Ming Chiao Tung University (NYCU), advised by Prof. [Yu-Lun Liu](https://yulunalexliu.github.io/).  -->
+I am currently a research assistant at Comp Photo Lab at National Yang Ming Chiao Tung University (NYCU), under the supervision of Prof. [Yu-Lun Liu](https://yulunalexliu.github.io/). I am planning to apply for Ph.D. programs in the United States.
 
-I recieved my master degree at UIUC-CS. I plan to apply for Ph.D. programs in US.
-I work on **3D scene reconstruction** and **physically-based rendering**, particularly focusing on **inverse rendering**, **3D Gaussian Splatting**, and **physics effect simulation**.
+My research focuses on **3D scene reconstruction** and **physically based rendering**, with particular interests in **inverse rendering**, **3D Gaussian Splatting**, and **physics-based effect simulation**.
 
-I received my Master of Computer Science from the University of Illinois Urbana-Champaign (UIUC), and bachelor in Computer Science from NYCU.
+I received my Master of Computer Science from the University of Illinois Urbana-Champaign (UIUC) and my Bachelor of Computer Science from NYCU.
 
 I am always open to research collaborations. If you are interested in exploring potential projects together, please feel free to get in touch.
