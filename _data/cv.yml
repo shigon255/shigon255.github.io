@@ -74,8 +74,8 @@ cv:
           - Zhenjun Zhao
           - Chieh Hubert Lin
           - Yu-Lun Liu
-        journal: arXiv
-        date: 2025-10
+        journal: ECCV
+        date: 2026
         url: https://skyfall-gs.jayinnn.dev/
         summary: The first method to synthesize immersive, real-time navigable 3D urban scenes solely from multi-view satellite imagery.
 
