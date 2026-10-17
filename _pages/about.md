@@ -32,7 +32,7 @@ latest_posts:
 
 I am currently a Ph.D student at Comp Photo Lab at National Yang Ming Chiao Tung University (NYCU), under the supervision of Prof. [Yu-Lun Liu](https://yulunalexliu.github.io/).
 
-My research focuses on 3D Computer Vision and generative models, with particular interests in physics-based rendering. Recently, I'm interested in applying computer vision techniques to Rotobics field.
+My research focuses on 3D computer vision and generative models, with a particular interest in physically-based rendering. Recently, I have become interested in applying computer vision techniques to the field of robotics.
 
 I received my Master of Computer Science from the University of Illinois Urbana-Champaign (UIUC) and my Bachelor of Computer Science from NYCU.
 
