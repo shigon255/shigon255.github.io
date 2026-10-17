@@ -30,9 +30,9 @@ latest_posts:
 
 ## About Me
 
-I am currently a research assistant at Comp Photo Lab at National Yang Ming Chiao Tung University (NYCU), under the supervision of Prof. [Yu-Lun Liu](https://yulunalexliu.github.io/). I am planning to apply for Ph.D. programs in the United States.
+I am currently a Ph.D student at Comp Photo Lab at National Yang Ming Chiao Tung University (NYCU), under the supervision of Prof. [Yu-Lun Liu](https://yulunalexliu.github.io/).
 
-My research focuses on **3D scene reconstruction** and **physically based rendering**, with particular interests in **inverse rendering**, **3D Gaussian Splatting**, and **physics-based effect simulation**.
+My research focuses on 3D Computer Vision and generative models, with particular interests in physics-based rendering. Recently, I'm interested in applying computer vision techniques to Rotobics field.
 
 I received my Master of Computer Science from the University of Illinois Urbana-Champaign (UIUC) and my Bachelor of Computer Science from NYCU.
 
